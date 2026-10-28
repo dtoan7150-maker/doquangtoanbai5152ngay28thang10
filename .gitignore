@@ -1,0 +1,15 @@
+## Visual Studio & .NET Build Output
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+
+## Database Files (Không đẩy file database dữ liệu sinh ra khi test)
+*.db
+*.sqlite
+*.db-journal
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
