@@ -44,9 +44,3 @@
 
 ---
 
-## IV. HƯỚNG DẪN CHẠY DỰ ÁN
-
-1. Yêu cầu cài đặt [.NET SDK](https://dotnet.microsoft.com/) (Phiên bản 6.0 / 8.0 trở lên).
-2. Clone repository về máy:
-   ```bash
-   git clone [https://github.com/dtoan71/LTNET-TEST02_24810320100_DoQuangToan.git](https://github.com/dtoan71/LTNET-TEST02_24810320100_DoQuangToan.git)
