@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP THỰC HÀNH LẬP TRÌNH C# WINFORMS
 
 ## I. THÔNG TIN SINH VIÊN
-- **Họ và tên:** Đỗ Quang Toản
+- **Họ và tên:** Đỗ Quang Toàn
 - **Mã số sinh viên:** 24810320100
 - **Lớp học phần:** D19QTANM1 - Lập trình .NET
 -- **Link Repository:** https://github.com/dtoan7150-maker/doquangtoanbai5152ngay28thang10
